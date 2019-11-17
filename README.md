@@ -1,6 +1,6 @@
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
 
-This project is an attempt to recreate Google's homepage.
+This project is an attempt to recreate Google's homepage
 
 Some of the skills I have learned and demonstrated in this project:
 - Move a div around on the page
@@ -12,4 +12,4 @@ Some of the skills I have learned and demonstrated in this project:
 - Place and style images
 - Identify ways CSS styles can be included in a page
 - How to use classes and ids to target CSS at specific elements on the page
-- Build a very basic form (even if it doesn’t “go” anywhere)
+- Build a basic form
