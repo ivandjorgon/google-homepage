@@ -5,7 +5,7 @@
   #container-top {
     display: grid;
     justify-items: end;
-    padding-right: 30px;
+    padding-right: 10px;
   }
   
   .grid-top {
