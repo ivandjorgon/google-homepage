@@ -4,7 +4,7 @@ This project is an attempt to recreate Google's homepage
 
 Some of the skills I have learned and demonstrated in this project:
 - Move a div around on the page
-- Sick a div onto the bottom or top of the page
+- Stick a div onto the bottom or top of the page
 - Identify the background color of an existing webpage
 - Grab the URL for an image from an existing webpage
 - Center an element horizontally
